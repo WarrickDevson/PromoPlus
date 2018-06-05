@@ -1,0 +1,11 @@
+C:\Dev\PromoterPlus\promoterplus.serverless\bin\Debug\netcoreapp2.0\promoterplus.serverless.deps.json
+C:\Dev\PromoterPlus\promoterplus.serverless\bin\Debug\netcoreapp2.0\promoterplus.serverless.runtimeconfig.json
+C:\Dev\PromoterPlus\promoterplus.serverless\bin\Debug\netcoreapp2.0\promoterplus.serverless.runtimeconfig.dev.json
+C:\Dev\PromoterPlus\promoterplus.serverless\bin\Debug\netcoreapp2.0\promoterplus.serverless.dll
+C:\Dev\PromoterPlus\promoterplus.serverless\bin\Debug\netcoreapp2.0\promoterplus.serverless.pdb
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.csprojAssemblyReference.cache
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.csproj.CoreCompileInputs.cache
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.AssemblyInfoInputs.cache
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.AssemblyInfo.cs
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.dll
+C:\Dev\PromoterPlus\promoterplus.serverless\obj\Debug\netcoreapp2.0\promoterplus.serverless.pdb

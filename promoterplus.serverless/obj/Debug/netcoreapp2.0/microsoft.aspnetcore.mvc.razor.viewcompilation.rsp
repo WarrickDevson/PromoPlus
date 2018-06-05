@@ -1,0 +1,5 @@
+C:\Dev\PromoterPlus\promoterplus.serverless
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=promoterplus.serverless
+--content-root=C:\Dev\PromoterPlus\promoterplus.serverless
+--file=

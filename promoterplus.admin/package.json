@@ -1,0 +1,23 @@
+{
+  "name": "promoterplus.admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-core": "^1.2.0",
+    "@devexpress/dx-react-grid": "^1.2.0",
+    "@devexpress/dx-react-grid-material-ui": "^1.2.0",
+    "@material-ui/core": "^1.0.0",
+    "material-ui": "^1.0.0-beta.47",
+    "ra-data-json-server": "^2.0.0",
+    "react": "^16.4.0",
+    "react-admin": "^2.0.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
